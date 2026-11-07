@@ -1,0 +1,5 @@
+1. Installed Visual Studio Code for programming.
+2. Installed the required programming extensions.
+3. Configured the development environment.
+4. Practised writing and executing a Hello World program.
+5. Learned basic Git and GitHub operations.
