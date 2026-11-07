@@ -9,3 +9,5 @@ It includes my practical work, programming exercises, and projects completed usi
 Learning Python and Java.
 
 Interested in web development and technology.
+
+Goal: Become a skilled software engineer and contribute to real-world projects.
