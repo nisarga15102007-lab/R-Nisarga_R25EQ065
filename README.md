@@ -11,3 +11,7 @@ Learning Python and Java.
 Interested in web development and technology.
 
 Goal: Become a skilled software engineer and contribute to real-world projects.
+
+## Projects
+
+I have worked on programming exercises and beginner-level software development projects. I am also developing a College Event Management System and exploring IoT-based solutions to improve my practical programming and problem-solving skills.
